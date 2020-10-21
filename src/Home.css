@@ -1,0 +1,33 @@
+.home {
+    text-align: center;
+    background-color: lightblue;
+    width: auto;
+}
+
+.post {
+    border: 1px solid white;
+    padding: 20px;
+    text-align: left;
+    font-size: 16px;
+
+}
+
+.menu {
+    width: 30%;
+    background-color: rgba(29,161,242,1.00);
+    color: white;
+    font-size: 25px;
+
+    /* align-content: center; */
+
+}
+
+.menu ul {
+    padding-left: 0;
+}
+
+.menu li {
+
+    height: 100px;
+    list-style: none;
+}

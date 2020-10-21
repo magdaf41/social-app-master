@@ -1,0 +1,55 @@
+.PopupContent {
+    position: absolute;
+    display: block;
+    left: 0;
+    right: 0;
+    top: 30px;
+    margin: auto;
+    width: 600px;
+    height: auto;
+    background-color: white;
+    text-align: center;
+    color: rgb(101, 119, 134);
+    padding-bottom: 50px;
+
+}
+
+.PopupContent .Singup {
+    width: 400px;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    background-color: rgba(29,161,242,1.00);
+    border: 0px solid rgba(29,161,242,1.00);
+    border-radius: 9999px;
+    padding: 2px;
+
+}
+.PopupContent .Singup:hover {
+    background-color:  rgb(23, 133, 201);
+    cursor: pointer;
+}
+
+.PopupContent .Singup a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+
+
+}
+
+.PopupContent .Login {
+    width: 400px;
+    left: 0;
+    right: 0;
+    margin: 20px auto;
+    background-color: rgba(29,161,242,1.00);
+    border: 0px solid rgba(29,161,242,1.00);
+    border-radius: 9999px;
+    padding: 4px;
+    font-size: 20px;
+    color: white;
+    outline: none;
+}
+
+
